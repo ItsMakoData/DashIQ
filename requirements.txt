@@ -1,4 +1,3 @@
-andas 
-jupyter 
-notebook 
-openpyxl
+streamlit
+pandas
+sqlite3
