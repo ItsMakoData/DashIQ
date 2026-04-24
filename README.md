@@ -1,4 +1,4 @@
-# DashIQ
+s# DashIQ
 
 ## Project Description
 **DashIQ** is a **Sales & Revenue Analytics Dashboard** that transforms raw business data into clear, interactive insights.  
@@ -49,6 +49,6 @@ DashIQ/
 │   ├── data_cleaning.ipynb  # Data cleaning and preparation notebook
 │   ├── eda.ipynb            # Exploratory Data Analysis notebook
 │
-├── requirements.txt         # Python dependencies
+├── requirements.txt         # Dependencies
 ├── README.md                # Project documentation
 └── .gitignore               # Git ignored files
